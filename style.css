@@ -29,6 +29,12 @@ body {
     inset -2px -2px 2px rgba(22, 87, 217, 0.271);
 }
 
+.score {
+  font-family: Arial;
+  font-size: 30px;
+  text-align: right;
+}
+
 .tetris .O {
   background: rgb(188, 201, 10);
 }
